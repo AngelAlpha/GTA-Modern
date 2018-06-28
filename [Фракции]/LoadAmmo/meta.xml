@@ -1,0 +1,33 @@
+<meta>
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client" cache = "false"/>
+	<script src="shared.lua" type="shared"/>
+	
+	<script src="attach/bone_attach.lua" cache="false"/>
+    <script src="attach/bone_attach_c.lua" type="client" cache="false"/>
+    <script src="attach/attach_func.lua" cache="false"/>
+    <script src="attach/attach_func.lua" type="client" cache="false"/>
+    <script src="attach/bone_pos_rot.lua" type="client" cache="false"/>
+	
+	<script src="clientGUI.lua" type="client" />
+	<script src="serverGUI.lua" type="server" />	
+    <file src="img/22.png" />
+    <file src="img/panel.png" />	
+    <file src="img/panel2.png" />
+    <file src="img/cizgi.png" />	
+    <file src="img/zirh.png" />		
+    <file src="img/can.png" />		
+    <file src="img/23.png" />
+    <file src="img/24.png" />	
+    <file src="img/25.png" />	
+    <file src="img/26.png" />
+    <file src="img/27.png" />
+    <file src="img/28.png" />
+    <file src="img/29.png" />
+    <file src="img/30.png" />	
+    <file src="img/31.png" />
+    <file src="img/32.png" />
+    <file src="img/34.png" />	
+    <file src="img/btn.png" />	
+    <file src="fontlar/font.ttf" />	
+</meta>

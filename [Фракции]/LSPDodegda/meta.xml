@@ -1,0 +1,6 @@
+<meta>
+       <info author="GianniCapella" description="Meria System" type="script" version="1.3.2" />
+	<script src="ammu-s.lua" type="server" />
+	<script src="ammu-c.lua" type="client" />
+	        <file src="img/HOTSMALL.jpg" />
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+	<script src="LVA001.lua" type="server"/>
+	<script src="shared.lua" type="shared"/>
+	<script src="acl_police.lua" type="server"/>
+	<script src="databasessLVA.lua" type="server"/>
+	<script src="ammu-c_kluch_lva.lua" type="client"/>
+	<script src="ammu-s_kluch_lva.lua" type="server"/>	
+</meta>
