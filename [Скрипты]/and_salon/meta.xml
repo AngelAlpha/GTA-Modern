@@ -1,0 +1,31 @@
+<meta>
+    <info author="Decro" name="Custom autoshop system" version="0.1.0" type="misc"/>
+    <min_mta_version client="1.5.0" server="1.5.0" />
+    
+    <script src="sh_autoshop.lua" type="shared" cache="false"/>
+    <script src="sv_autoshop.lua" type="server"/>
+	<script src="cl_autoshop.lua" type="client" compile="1" cache="false"/>
+
+	<file src="files/watermark.png" />
+	<file src="files/ok.png" />
+	<file src="files/notok.png" />
+	<file src="files/arrow.png" />
+	
+	
+	<file src="files/colors.png" />
+	<file src="files/cam.png" />
+	<file src="files/scroll.png" />
+	<file src="files/scrollbar.png" />
+	<file src="files/fon.png" />
+	<file src="files/fon2.png" />
+
+	<export function="getVehicleData" type="client"/>
+	<export function="getVehicleData" type="server"/>
+	
+	<export function="isPlayerOwner" type="client"/>
+	<export function="isPlayerOwner" type="server"/>
+	
+	<export function="getDBCarShop" type="server"/>
+	
+	<export function="refreshCarClient" type="client"/>
+</meta>

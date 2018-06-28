@@ -1,0 +1,45 @@
+<car>
+	<data id="-1" fuel="1" /><!-- Player entry -->
+	
+	<data id="0" fuel="50" /><!-- Default entry -->
+	<data id="602" fuel="50" /><!-- Alpha -->
+	<data id="545" fuel="50" /><!-- Hustler -->
+	<data id="496" fuel="50" /><!-- Blista -->
+	<data id="517" fuel="50" /><!-- Majestic -->
+	<data id="401" fuel="50" /><!-- Bravura -->
+	<data id="410" fuel="50" /><!-- Manana -->
+	<data id="518" fuel="50" /><!-- Buccaneer -->
+	<data id="600" fuel="50" /><!-- Picador -->
+	<data id="527" fuel="50" /><!-- Cadrona -->
+	<data id="436" fuel="50" /><!-- Previon -->
+	<data id="589" fuel="50" /><!-- Club -->
+	<data id="580" fuel="50" /><!-- Stafford -->
+	<data id="419" fuel="50" /><!-- Esperanto -->
+	<data id="439" fuel="50" /><!-- Stallion -->
+	<data id="533" fuel="50" /><!-- Feltzer -->
+	<data id="549" fuel="50" /><!-- Tampa -->
+	<data id="526" fuel="50" /><!-- Fortune -->
+	<data id="491" fuel="50" /><!-- Virgo -->
+	<data id="474" fuel="50" /><!-- Hermes -->
+
+	<data id="445" fuel="50" /><!-- Admiral -->
+	<data id="604" fuel="50" /><!-- Glendale -->
+	<data id="507" fuel="50" /><!-- Elegant -->
+	<data id="585" fuel="50" /><!-- Emperor -->
+	<data id="587" fuel="50" /><!-- Euros -->
+	<data id="466" fuel="50" /><!-- Glendale -->
+	<data id="492" fuel="50" /><!-- Greenwood -->
+	<data id="546" fuel="50" /><!-- Intruder -->
+	<data id="551" fuel="50" /><!-- Merit -->
+	<data id="516" fuel="50" /><!-- Nebula -->
+	<data id="467" fuel="50" /><!-- Oceanic -->
+	<data id="426" fuel="50" /><!-- Premier -->
+	<data id="547" fuel="50" /><!-- Primo -->
+	<data id="405" fuel="50" /><!-- Sentinel -->
+	<data id="409" fuel="50" /><!-- Stretch -->
+	<data id="550" fuel="50" /><!-- Sunrise -->
+	<data id="566" fuel="50" /><!-- Tahoma -->
+	<data id="540" fuel="50" /><!-- Vincent -->
+	<data id="421" fuel="50" /><!-- Washington -->
+	<data id="529" fuel="50" /><!-- Willard -->
+</car>

@@ -1,0 +1,4 @@
+<meta>	
+  <info author="Robin" name="Time Played [TAB]" version="1.4" type="script" description="Time saves in this script. Press TAB!" />
+	<script src="scripting.lua" type="server" />
+</meta>

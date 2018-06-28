@@ -1,0 +1,12 @@
+<meta>
+	<!-- Configuration -->
+	<info author="EA7Enzo" name="Other" type="script"  version="1.0"/>
+
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" />
+	<script src="shared.lua" type="shared" />
+	
+	<file src="pm.mp3" />
+	<file src="replace.fx" />
+	<file src="ramka.png" />
+</meta>

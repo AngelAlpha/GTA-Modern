@@ -1,0 +1,8 @@
+<meta>
+	<info author="ANTI" version="1.0.4"/>
+	
+	<script src="main_s.lua" type="client" cashe="false"/>
+	<script src="setting.lua" type="shared" />
+	
+	<file src="test.otf"/>
+</meta>

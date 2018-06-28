@@ -1,0 +1,12 @@
+<meta>
+	<info type="script" name="Firehouse" author="~XT~" version="1.0.0" />
+	<script src="chaticon.lua" type="client" />
+	<file src="img/1.png" />
+	<file src="img/2.png" />
+	<file src="img/3.png" />
+	<file src="img/4.png" />
+	<file src="img/5.png" />
+	<file src="img/off.png" />
+	<file src="img/on.png" />
+	<file src="chaticon.fx" />
+</meta>

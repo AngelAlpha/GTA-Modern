@@ -1,0 +1,4 @@
+<meta>
+	<info author="[TN]WASSIm." version="1" name="save_system" type="script" />
+	<script src="server.lua" type="server" />
+</meta>

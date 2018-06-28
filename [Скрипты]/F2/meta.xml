@@ -1,0 +1,35 @@
+<meta>
+	 
+	<info name="PAINEL VEICULO" author="JapaSCR" type="misc" version="1.0" />
+	
+	<script src="c.lua" type="client" />
+	<script src="s.lua" type="server" />
+	<file src="gfx/arrow.png" />
+	<file src="gfx/car.png" />
+	<file src="gfx/bola.png" />
+	<file src="gfx/lanterna.png" />
+	<file src="gfx/motor.png" />
+    <file src="gfx/seta.png" />
+	<file src="files/font/font.ttf" />
+    <file src="gfx/subir.mp3" />
+    <file src="gfx/decer.mp3" />
+    <file src="gfx/padrao.mp3" />
+   <file src='models/BlueNeonTube1.dff' />
+    <file src='models/GreenNeonTube1.dff' />
+    <file src='models/RedNeonTube1.dff' />
+    <file src='models/PinkNeonTube1.dff' />
+    <file src='models/YellowNeonTube1.dff' />
+    <file src='models/WhiteNeonTube1.dff' />
+    <file src='models/BlueNeonTube1.col' />
+    <file src='models/GreenNeonTube1.col' />
+    <file src='models/RedNeonTube1.col' />
+    <file src='models/PinkNeonTube1.col' />
+    <file src='models/YellowNeonTube1.col' />
+    <file src='models/WhiteNeonTube1.col' />
+    <file src='models/MatTextures.txd' />
+	<settings>
+        <setting name="*limit" value="true" friendlyname="Suspension limit" group="General" accept="true, false" examples="true, false" desc="Recommended true for any issues" />
+        <setting name="*suspensionmove" value="false" friendlyname="Suspension moving" group="General" accept="true, false" examples="true, false" desc="Recommended false for not use suspension when car move" />
+        <setting name="*messagedriver" value="true" friendlyname="Notify driver" group="General" accept="true, false" examples="true, false" desc="Warns the driver about the suspension system when he gets in the car" />
+    </settings>
+</meta>

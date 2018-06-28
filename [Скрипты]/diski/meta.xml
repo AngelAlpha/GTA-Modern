@@ -1,0 +1,23 @@
+<meta>
+<info name="Wheel Pack Mod | v1" author="Monster" type= "script" version="1.0"/>
+      <script src="c_replace.lua" type="client"/>
+	  
+      <file src="data/vehicle.txd" type="client"/>
+      <file src="data/wheel_gn1.dff" type="client"/>
+      <file src="data/wheel_gn2.dff" type="client"/>
+      <file src="data/wheel_gn3.dff" type="client"/>
+      <file src="data/wheel_gn4.dff" type="client"/>
+      <file src="data/wheel_gn5.dff" type="client"/>
+      <file src="data/wheel_lr1.dff" type="client"/>
+      <file src="data/wheel_lr2.dff" type="client"/>
+      <file src="data/wheel_lr3.dff" type="client"/>
+      <file src="data/wheel_lr4.dff" type="client"/>
+      <file src="data/wheel_lr5.dff" type="client"/>
+      <file src="data/wheel_or1.dff" type="client"/>	  
+      <file src="data/wheel_sr1.dff" type="client"/>
+      <file src="data/wheel_sr2.dff" type="client"/>
+      <file src="data/wheel_sr3.dff" type="client"/>
+      <file src="data/wheel_sr4.dff" type="client"/>
+      <file src="data/wheel_sr5.dff" type="client"/>
+      <file src="data/wheel_sr6.dff" type="client"/>	  
+</meta>

@@ -1,0 +1,4 @@
+﻿<meta>
+	<info author="chatBox" type="script" name="chatBox" />
+	<script src="chatBox.lua" type="client"/>
+</meta>

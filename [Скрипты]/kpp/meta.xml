@@ -1,0 +1,13 @@
+<meta>
+	<info author="Mega9" name="Bridge Toll Booths" version="2.0.2" type="script"/>
+
+	<script src="tollsMap.lua" type="server" />
+	
+	<script src="toll_server.lua" type="server" />
+	<script src="toll_client.lua" type="client" />
+
+	<file src="img/1.png" />
+	<file src="img/opl.png" />
+	<file src="img/k.png" />
+		<file src="img/b.png" />
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+	<script src="freecam.lua" type="client" />
+	<script src="freecam_server.lua" type="server" />	
+</meta>

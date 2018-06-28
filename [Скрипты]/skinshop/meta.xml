@@ -1,0 +1,6 @@
+<meta>
+    <info author="gelon" type="script" name="Skinsystem" description="Skinshop" version="1.0.0"></info>
+    <script src="blip.lua" type="server" />
+    <script src="skinsystem_c.lua" type="client" cache="false" />
+    <script src="skinsystem_s.lua" type="server" />
+</meta>

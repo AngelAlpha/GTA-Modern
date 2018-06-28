@@ -1,0 +1,19 @@
+<meta>
+    <info author="Decro" name="Speed'O'Meter" version="0.1.0" type="misc"/>
+	<min_mta_version client="1.5.0" server="1.5.0" />
+    <script src="sv_speedometer.lua" type="server"/>
+	<script src="cl_speedometer.lua" type="client"cashe="false"/>
+	<export function="setVisible" type="client"/>
+
+	<file src="files/engine.png" />
+	<file src="files/kruiz.png" />
+	<file src="files/light.png" />
+	<file src="files/lock.png" />
+	<file src="files/Spedo.png" />
+	<file src="files/strelkaspedo.png" />
+	<file src="files/move_fuel.png" />
+
+	<file src="files/AEROMATICSBOLD.ttf" />
+	<file src="files/AEROMATICSBOLDITALIC.ttf" />
+	<file src="files/AEROMATICSITALIC.ttf" />
+</meta>

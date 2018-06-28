@@ -1,0 +1,11 @@
+<meta>
+<info Author="JetBalance" name="Information Panel" description="A F1 Information panel for MTA servers" version="1.0" type="script" />
+	<script src="client.lua" type="client" />
+	<file src="Rules.txt"/>
+	<file src="Rule.txt"/>
+	<file src="Rul.txt"/>
+	<file src="Ru.txt"/>
+	<file src="Commands.txt"/>
+	<file src="Information.txt"/>
+	<file src="Admins.txt"/>
+</meta>

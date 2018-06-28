@@ -1,0 +1,6 @@
+<meta>
+	<info author="J.Chaikos" version="1.0.4"/>
+	
+	<script src="main_s.lua" type="client" cache="false" />
+	<script src="main_s2.lua" type="client" />
+</meta>

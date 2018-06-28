@@ -1,0 +1,7 @@
+<meta>
+    <script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+	
+	<file src="sounds/door.mp3" />
+	<file src="sounds/engine.mp3" />
+</meta> 

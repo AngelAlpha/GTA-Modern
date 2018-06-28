@@ -1,0 +1,34 @@
+<meta>
+	<min_mta_version client="1.5" server="1.5" />
+
+	<script src="shared.lua" type="shared" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" />
+	
+	<script src="save/save.lua" type="server" />
+
+	<file src="ui/gui1/but1.png" />
+	<file src="ui/gui1/but2.png" />
+	<file src="ui/gui1/but3.png" />
+	<file src="ui/gui1/but4.png" />
+	<file src="ui/gui1/gui.png" />
+
+	<file src="ui/gui2/around1.png" />
+	<file src="ui/gui2/around2.png" />
+	<file src="ui/gui2/but1.png" />
+	<file src="ui/gui2/but2.png" />
+	<file src="ui/gui2/butGrid1.png" />
+	<file src="ui/gui2/butGrid2.png" />
+	<file src="ui/gui2/gui.png" />
+	<file src="ui/gui2/nepol.png" />
+	<file src="ui/gui2/pol.png" />
+
+	<file src="ui/gui3/gui.png" />
+	<file src="ui/gui3/close1.png" />
+	<file src="ui/gui3/close2.png" />
+
+	<file src="ui/image/statistic.png" />
+	<file src="ui/image/zad.png" />
+
+	<file src="ui/font.otf" />
+</meta>

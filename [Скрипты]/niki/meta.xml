@@ -1,0 +1,9 @@
+<meta>
+	<info author="arc_ (modded by jflm)" description="Nametags from the race resource" type="script" version="1.0.0" />
+	
+	<script src="nametags.lua" type="client"/>
+	
+	<file src="font.ttf" />
+	
+	<export function = "setVisible" type = "client"/>
+</meta>

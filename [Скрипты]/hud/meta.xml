@@ -1,0 +1,7 @@
+<meta>
+	<info author="Knyaz" description="login" version="1" type="script" />
+	<script src="client.lua" type="client" cache="false" compile="1"/>
+	<file src="shared/fon.png"/>
+    <file src="shared/1.ttf"/>
+    <export function = "setVisible" type = "client"/>
+</meta>

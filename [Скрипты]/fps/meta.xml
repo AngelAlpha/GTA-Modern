@@ -1,0 +1,5 @@
+<meta>
+	<info author="EA7Enzo" name="FPS And Ping" type="misc" version="1.0.0" />
+	<script src="client.lua" type="client" />
+
+</meta>

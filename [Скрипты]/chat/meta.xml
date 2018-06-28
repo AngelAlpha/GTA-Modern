@@ -1,0 +1,6 @@
+
+<meta>
+    <info author="Gianni_Capella" name="RP-chat" description="RP_SUPERCHAT_by_Gianni_Capella" version="1.0.0" type="script"/>
+    <script src="chat_s.lua" type="server"/>
+    <script src="chat_c.lua" type="client"/>
+</meta>

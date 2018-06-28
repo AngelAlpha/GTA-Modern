@@ -1,0 +1,4 @@
+<meta>
+<info author="Creative" type="script" version="1.1" name="Warp-system" description="Warp-system"/>
+<script src="warp.lua" type="client"/>
+</meta>

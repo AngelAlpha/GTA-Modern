@@ -1,0 +1,18 @@
+<!--
+	*Scripted by ZoRRoM^.
+	*ZoRRoM^ tarafından kodlanmıştır.
+	*Lütfen http://mtasa-tr.com adresini ziyaret edin.
+	*Please visit http://mtasa-tr.com adress.
+-->
+
+<meta>
+	<info author="tcw" name="Login/Register" description="DX Login/Register" type="script" version="1.0.4"/>
+    <script src="options.lua" type="client"/>
+	<script src="login_c.lua" type="client" cache="false"/>
+    <script src="login_s.lua" type="server"/>
+	
+	<file src="images/background.jpg"/>
+	<file src="images/password.png"/>
+	<file src="images/checkbox.png"/>	
+	
+</meta>

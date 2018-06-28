@@ -1,0 +1,5 @@
+<meta>
+    <info author="Dutchman101" name="greenzones" version="1.2" type="script" />
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" />
+</meta>

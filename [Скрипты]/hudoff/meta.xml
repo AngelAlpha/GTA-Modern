@@ -1,0 +1,7 @@
+<meta>
+	<info name="f10_hud_noactive" description="Ресурс который позволяет скрыть полностью hud" author="Tameronik" type="script" version="1.0" build="31.05.2016"/>
+
+	<script src="f10_hud_noactive.lua" type="client"/>
+	
+	<file src="fon.png" />
+</meta>

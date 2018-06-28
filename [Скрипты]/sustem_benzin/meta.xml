@@ -1,0 +1,15 @@
+<meta>
+	
+	<script src="c.lua" type="client"/>
+		
+	<script src="s.lua" type="server"/>
+	
+	<script src="shared.lua" type="shared"/>
+	
+	<map src="garageData.xml" />
+	
+	<file src="carData.xml" />
+	<file src="3574.ttf" />
+	
+	<export function="getCarFuel" type="server"/>
+</meta>

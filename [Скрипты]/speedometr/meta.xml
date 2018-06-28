@@ -1,0 +1,24 @@
+<meta>
+	<info author="#Enzo" name="" version="1.0.0" type="script"/>
+	
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server"/>
+	
+	<file src="11710.ttf"/>
+	<file src="nametags.ttf"/>
+	<file src="nametags.ttf"/>
+	<file src="hou_circle.fx" type="client" />
+	
+	<file src="speedo.png" />
+	<file src="strspeedo.png" />
+	<file src="brake.png" />
+	<file src="lock.png" />
+	<file src="engine.png" />
+	<file src="speedolinia.png" />
+	<file src="fuel.png" />
+	<file src="strfuel.png" />
+	<file src="light.png" />
+	<file src="belt.png" />
+	<file src="left.png" />
+	<file src="right.png" />
+</meta>

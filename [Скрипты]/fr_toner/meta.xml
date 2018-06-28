@@ -1,0 +1,19 @@
+<meta>
+<info author="gelon" name="" type="script" version="1.0.4" />
+
+	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" />
+	<file src="shader/shader.fx" />
+	<file src="shader/texture1.png" />
+	<file src="shader/texture2.png" />
+	<file src="shader/texture3.png" />
+	<file src="shader/texture4.png" />
+	<file src="shader/texture5.png" />
+	<file src="shader/texture6.png" />
+	
+	<script src="font/util.lua" type="client" cache="false"/>
+	<file src="font/font.ttf"/>
+	<file src="font/font2.ttf"/>
+	
+	<export function="showTonerWindow" type="client"/>
+</meta>
